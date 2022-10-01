@@ -40,7 +40,7 @@ global.alivemsg =`HI I'M  ⚜️𝙳𝙰𝚁𝙺-𝙳𝙸𝙼𝙰𝚃𝙷⚜️
 
 
 
-global.alivepic = `https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg `//you logo key 
+global.alivepic = `https://ibb.co/qn7Cmgt `//you logo key 
 
 
 global.ownername = " DIMATH " //ur owner name
